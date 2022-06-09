@@ -1,0 +1,11 @@
+Build started at 2022-01-18T13:21:08.864017
+Main binary: /usr/bin/python3
+Build Options: 
+Python system: Linux
+The Meson build system
+Version: 0.53.2
+Source dir: /home/kentin/projetSolo/src
+Build dir: /home/kentin/projetSolo/src/build
+Build type: native build
+
+ERROR: First statement must be a call to project

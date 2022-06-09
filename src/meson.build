@@ -1,0 +1,7 @@
+subdir('utils')
+subdir('io')
+subdir('lexer')
+subdir('parser')
+subdir('tools')
+subdir('execution')
+all_sources += files('42sh.c')
